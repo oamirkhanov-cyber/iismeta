@@ -1,0 +1,13 @@
+# SmetaAI / iismeta.com — рантайм нового фронта (FastAPI поверх детерминированного ядра).
+# AI layer is optional and disabled by default (see pipeline/llm_fallback.py)
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.0
+pandas>=2.0
+openpyxl>=3.1
+# бот сметчиков: парсинг файлов-замечаний (Word/PDF; Excel — через openpyxl, txt — stdlib)
+python-docx>=1.1
+pdfplumber>=0.11
+# вкладка «ВОР»: загрузка файлов (multipart); Office/фолбэк-конвертер — MarkItDown
+python-multipart>=0.0.9
+markitdown>=0.1

@@ -1,0 +1,51 @@
+Copyright (c) 2026 Otabek Amirkhanov / IISMETA. All rights reserved.
+Copyright (c) 2026 Отабек Амирханов / IISMETA. Все права защищены.
+
+ENGLISH — PROPRIETARY, SOURCE-AVAILABLE FOR REVIEW ONLY
+
+The contents of this repository (documentation, diagrams and the selected
+source code published under code/) are made available for the sole purpose of
+technical review — by evaluation committees, investors and partners.
+
+You MAY: read and review the materials and the published source code.
+
+You MAY NOT, without prior written permission of the copyright holder:
+  1. use the published code, in whole or in part, for any purpose;
+  2. copy, reproduce, distribute or sublicense the materials;
+  3. create derivative works based on the materials;
+  4. use the materials for any commercial purpose;
+  5. use the published code to train machine learning models.
+
+This repository contains only a SELECTED PART of the product source code.
+The ShNK normative database, the engine's dictionaries and matching rules,
+the validation corpus and the project documentation of our clients are NOT
+published here: they remain protected intellectual property of the copyright
+holder and of the respective clients. Consequently, the published code cannot
+produce cost estimates on its own.
+
+These materials constitute neither a public offer nor a license to use the
+IISMETA software product.
+
+РУССКИЙ — ПРОПРИЕТАРНОЕ ПО, ИСХОДНЫЙ КОД ОТКРЫТ ТОЛЬКО ДЛЯ ОЗНАКОМЛЕНИЯ
+
+Содержимое настоящего репозитория (документация, схемы и отобранный исходный
+код в каталоге code/) предоставляется исключительно в целях технического
+ознакомления — для конкурсных комиссий, инвесторов и партнёров.
+
+Разрешается: читать и изучать материалы и опубликованный исходный код.
+
+Не разрешается без предварительного письменного согласия правообладателя:
+  1. использование опубликованного кода полностью или частично;
+  2. копирование, воспроизведение и распространение материалов;
+  3. создание производных работ;
+  4. коммерческое использование в любой форме;
+  5. использование кода для обучения моделей машинного обучения.
+
+Репозиторий содержит только ОТОБРАННУЮ ЧАСТЬ исходного кода продукта.
+Нормативная база ШНҚ, словари и правила подбора движка, эталонный корпус и
+проектная документация заказчиков здесь НЕ публикуются: они являются
+охраняемой интеллектуальной собственностью правообладателя и заказчиков.
+Опубликованный код не способен самостоятельно формировать сметы.
+
+Материалы не являются публичной офертой и не предоставляют лицензии на
+использование программного продукта IISMETA.
